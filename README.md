@@ -1,0 +1,2 @@
+# Yasnaz
+Safe
